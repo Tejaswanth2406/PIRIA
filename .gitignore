@@ -1,0 +1,6 @@
+target/
+**/*.rs.bk
+Cargo.lock
+.piria/
+web/node_modules/
+web/dist/
