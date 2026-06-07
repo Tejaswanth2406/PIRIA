@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/0a32ffb6-f6c7-4540-b7ae-9bd08a3bcdbc" />
+
 # PIRIA
 
 PIRIA is the MVP runtime core for the Physics-Inspired Relational Intelligence Architecture.
